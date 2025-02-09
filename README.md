@@ -1,1 +1,1 @@
-"# Vms" 
+vehicle Management System (VMS) using Python and Django is a web-based application designed to manage and track vehicles efficiently. It can be used by businesses, rental agencies, or logistics companies to monitor their fleet
