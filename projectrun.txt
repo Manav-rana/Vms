@@ -1,0 +1,8 @@
+python manage.py migrate
+                               createsuperuser
+admin
+username:admin,admin
+pass:user1@gmai.com
+User1346
+customer:deep,deep
+machanic: firstnme
